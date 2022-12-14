@@ -1,3 +1,3 @@
 # rsschool-cv
 
-# https://Pol1naBelova.github.io/rsschool-cv/cv
+# https://pol1nabelova.github.io/rsschool-cv/
